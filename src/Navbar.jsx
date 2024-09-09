@@ -3,7 +3,8 @@ import logo from './assets/logo.svg';
 import underline from './assets/nav_underline.svg';
 import menu_open from './assets/menu_open.svg';
 import menu_close from './assets/menu_close.svg';
-import "./Navbar.css"
+
+
 
 function Navbar() {
   const [menu, setMenu] = useState("home");
